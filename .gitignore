@@ -1,0 +1,10 @@
+# Code::Blocks
+bin/
+obj/
+*.exe
+*.layout
+*.depend
+
+# Temporales
+*.log
+*.tmp
