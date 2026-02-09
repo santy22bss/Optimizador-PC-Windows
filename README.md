@@ -1,5 +1,6 @@
- Windows System Optimizer v5.2
-Windows System Optimizer es una herramienta de mantenimiento integral de código abierto diseñada para centralizar las tareas de limpieza, optimización y reparación del sistema operativo Windows en una interfaz de consola ligera y eficiente.
+Windows System Optimizer v5.2
+
+Es una herramienta de mantenimiento integral de código abierto diseñada para centralizar las tareas de limpieza, optimización y reparación del sistema operativo Windows en una interfaz de consola ligera y eficiente.
 
  * Contexto del Proyecto
 Este software fue desarrollado como parte de mi formación en la Licenciatura en Ciberseguridad. El objetivo principal es la exploración práctica de:
